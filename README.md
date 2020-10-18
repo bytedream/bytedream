@@ -5,13 +5,13 @@ My featured languages are `python3` and `go` (im currently learning go, so I hav
 I have also developed in java, but it's a dying language, so I will probably not create many Java projects in the future.
 My primary platform / OS for developing is linux because... yea [windows is windows](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/)
 
-###Find me on the internet🌍
+### Find me on the internet🌍
 
 - Github: [ByteDream](https://github.com/ByteDream)
 - Twitter: [@ByteDream_dev](https://twitter.com/bytedream_dev)
 - Reddit: [u/ByteDream](https://www.reddit.com/user/ByteDream)
 
-###Stats
+### Stats
 
 <a href="https://github.com/ByteDream" style="width: 100%">
     <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" align="center" height="180px"/>
