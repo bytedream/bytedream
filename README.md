@@ -13,7 +13,9 @@ My primary platform / OS for developing is linux because... yea [windows is wind
 
 ### Stats
 
-<a href="https://github.com/ByteDream" style="width: 100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" align="center" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical" align="center" height="180px"/>
-</a>
+<p align="center">
+    <a href="https://github.com/ByteDream" style="width: 100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" align="center" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical" align="center" height="160px"/>
+    </a>
+</p>
