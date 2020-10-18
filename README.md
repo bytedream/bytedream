@@ -1,4 +1,4 @@
-![](assets/logo-background_high.jpg)
+[![](assets/logo-background_high.jpg)](#)
 
 Hello there, **ByteDream** here. I'm a german student who loves open source development, automate and simplify things.
 My featured languages are `python3` and `go` (im currently learning go, so I haven't any repo yet).
