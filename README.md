@@ -1,7 +1,7 @@
 [![](assets/logo-background_high.jpg)](#)
 
 Hello there, **ByteDream** here. I'm a german student who loves open source development, automate and simplify things.
-My featured languages are `python3` and `go` (im currently learning go, so I haven't any repo yet).
+My featured languages are `python3` and `go`.
 I have also developed in java, but it's a dying language, so I will probably not create many Java projects in the future.
 My primary platform / OS for developing is linux because... yea [windows is windows](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/)
 
