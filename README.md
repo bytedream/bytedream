@@ -7,10 +7,6 @@ My primary platform / OS for developing is linux because... yea [windows is wind
 
 ### Find me on the internet🌍
 
-<p align="center">
-    <a href="#"><img style="{color: white}" src="assets/github.svg" alt="https://github.com/ByteDream"></a>
-</p>
-
 - Github: [ByteDream](https://github.com/ByteDream)
 - Twitter: [@ByteDream_dev](https://twitter.com/bytedream_dev)
 - Reddit: [u/ByteDream](https://www.reddit.com/user/ByteDream)
@@ -30,7 +26,7 @@ The following people (currently it's only one lol) helped me with their tutorial
 
 <ul>
     <li>
-        <p align="center">
+        <p>
             The Morpheus Tutorials
             <a href="https://www.youtube.com/user/TheMorpheus407"><img src="assets/youtube.svg" alt="Youtube"></a>
             <a href="https://github.com/TheMorpheus407"><img src="assets/github.svg" alt="GitHub"></a>
