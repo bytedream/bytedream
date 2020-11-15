@@ -30,7 +30,7 @@ The following people (currently it's only one lol) helped me with their tutorial
 
 <ul>
     <li>
-        <p align="center">
+        <p>
             The Morpheus Tutorials
             <a href="https://www.youtube.com/user/TheMorpheus407"><img src="assets/youtube.svg" alt="Youtube"></a>
             <a href="https://github.com/TheMorpheus407"><img src="assets/github.svg" alt="GitHub"></a>
