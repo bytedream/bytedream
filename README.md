@@ -41,7 +41,7 @@ The following people helped me with their tutorials etc. to discover programming
     <li>
         The Morpheus Tutorials
         <a href="https://www.youtube.com/user/TheMorpheus407"><img src="assets/youtube.svg" alt="Youtube"/></a>
-        <a href="https://github.com/TheMorpheus407"><img src="assets/github.svg" alt="GitHub"/></a>
+        <a href="https://github.com/TheMorpheus407"><img src="assets/github.svg" alt="GitHub" width="24"/></a>
         <a href="https://the-morpheus.de/"><img src="assets/web.svg" alt="Website"/></a>
     </li>
     <li>
