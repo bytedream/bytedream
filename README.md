@@ -22,7 +22,7 @@
 - I mainly develop for linux (>99%), although most of the stuff would probably run on windows as well.
   But linux has so many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that i only use it for gaming at the most (hopefully game support for linux will increase in the future).
 
-### `>_About.Stats()`
+## `>_About.Stats()`
 
 <p>
     <a href="https://github.com/ByteDream" style="width: 100%">
@@ -31,9 +31,7 @@
     </a>
 </p>
 
----
-
-### `>_About.Thanks()`
+## `>_About.Thanks()`
 
 The following people helped me with their tutorials etc. to discover programming for me and also to educate me.
 
