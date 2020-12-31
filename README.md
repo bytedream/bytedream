@@ -1,18 +1,28 @@
 [![](assets/logo-background_high.jpg)](#)
 
-Hello there, **ByteDream** here. I'm a german student who loves open source development, automate and simplify things.
-My featured languages are `python3` and `go`. I have also developed in java, but it's a dying language, so I will probably not create many Java projects in the future.
-My primary platform / OS for developing is linux because... yea [windows is windows](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/).
+<p align="center">
+    <a href="http://blueshard.org"><img src="assets/web.svg" alt="Website" width="35px"/></a>
+    <a href="https://github.com/ByteDream"><img src="assets/github.svg" alt="Github" width="35px"/></a>
+    <a href="https://twitter.com/bytedream_dev"><img src="assets/twitter.svg" alt="Twitter" width="35px"/></a>
+    <a href="https://www.reddit.com/user/ByteDream"><img src="assets/reddit.svg" alt="Reddit" width="35px"/></a>
+    <a href="https://discordapp.com/users/650417934073593886"><img src="assets/discord.svg" alt="Discord" width="35px"/></a>
+</p>
 
-### Find me on the internet🌍
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Octocat" width="100">
 
-- Github: [ByteDream](https://github.com/ByteDream)
-- Twitter: [@ByteDream_dev](https://twitter.com/bytedream_dev)
-- Reddit: [u/ByteDream](https://www.reddit.com/user/ByteDream)
+#### Hello there, <ByteDream/> here. I'm a german student who loves open source development to automate and simplify things.
 
----
+## `>_About.me()`
 
-### Stats
+<img align="left" src="assets/programming.gif" alt="" width="143px">
+
+- My featured programming languages are `python3`, `go` and sometimes `java` (it's a dying language).
+  I also develop in HTML/CSS/Typescript, but mainly for my [website](http://blueshard.org)
+- My favorite IDE's are all from [JetBrains](https://www.jetbrains.com/) like [PyCharm](https://www.jetbrains.com/pycharm/) or [GoLand](https://www.jetbrains.com/go/)
+- I mainly develop for linux (>99%), although most of the stuff would probably run on windows as well.
+  But linux has so many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that i only use it for gaming at the most (hopefully game support for linux will increase in the future).
+
+### `>_About.Stats()`
 
 <p>
     <a href="https://github.com/ByteDream" style="width: 100%">
@@ -23,30 +33,33 @@ My primary platform / OS for developing is linux because... yea [windows is wind
 
 ---
 
-### Thanks
+### `>_About.Thanks()`
 
 The following people helped me with their tutorials etc. to discover programming for me and also to educate me.
-
 
 <ul>
     <li>
         The Morpheus Tutorials
-        <a href="https://www.youtube.com/user/TheMorpheus407">
-            <img src="assets/youtube.svg" alt="Youtube">
-        </a>
-        <a href="https://github.com/TheMorpheus407">
-            <img src="assets/github.svg" alt="GitHub">
-        </a>
-        <a href="https://the-morpheus.de/">
-            <img src="assets/web.svg" alt="Website">
-        </a>
+        <a href="https://www.youtube.com/user/TheMorpheus407"><img src="assets/youtube.svg" alt="Youtube"/></a>
+        <a href="https://github.com/TheMorpheus407"><img src="assets/github.svg" alt="GitHub"/></a>
+        <a href="https://the-morpheus.de/"><img src="assets/web.svg" alt="Website"/></a>
     </li>
     <li>
         DeepL
-        <a href="https://www.deepl.com">
-            <img src="assets/web.svg" alt="Website">
-        </a>
+        <a href="https://www.deepl.com"><img src="assets/web.svg" alt="Website"/></a>
         (great ai based translate engine)
     </li>
+    <li>
+        Jetbrains
+        <a href="https://www.jetbrains.com/"><img src="assets/web.svg" alt="Website"/></a>
+        (developers of the best IDEs in my opinion)
+    </li>
+    <li>The whole linux 'world' (developers, etc.) and the huge community behind it. Linux is the future :D</li>
 </ul>
+
+---
+
+And now get ready for your daily meme :3
+
+<img align="center" src="http://blueshard.org/api/media/meme?type=daily"></img>
 
