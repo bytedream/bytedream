@@ -1,7 +1,7 @@
 [![](assets/logo-background_high.jpg)](#)
 
 <p align="center">
-    <a href="http://blueshard.org"><img src="assets/web.svg" alt="Website" width="35px"/></a>
+    <a href="http://bytedream.org"><img src="assets/web.svg" alt="Website" width="35px"/></a>
     <a href="https://github.com/ByteDream"><img src="assets/github.svg" alt="Github" width="35px"/></a>
     <a href="https://twitter.com/bytedream_dev"><img src="assets/twitter.svg" alt="Twitter" width="35px"/></a>
     <a href="https://www.reddit.com/user/ByteDream"><img src="assets/reddit.svg" alt="Reddit" width="35px"/></a>
@@ -17,7 +17,7 @@
 <img align="left" src="assets/programming.gif" alt="" width="143px">
 
 - My featured programming languages are `python3`, `go` and sometimes `java` (it's a dying language).
-  I also develop in HTML/CSS/Typescript, but mainly for my [website](http://blueshard.org)
+  I also develop in HTML/CSS/Typescript, but mainly for my [website](http://bytedream.org)
 - My favorite IDE's are all from [JetBrains](https://www.jetbrains.com/) like [PyCharm](https://www.jetbrains.com/pycharm/) or [GoLand](https://www.jetbrains.com/go/)
 - I mainly develop for linux (>99%), although most of the stuff would probably run on windows as well.
   But linux has so many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that i only use it for gaming at the most (hopefully game support for linux will increase in the future).
@@ -59,5 +59,5 @@ The following people helped me with their tutorials etc. to discover programming
 
 And now get ready for your daily meme :3
 
-<img align="center" src="http://blueshard.org/api/media/meme?type=daily"></img>
+<img align="center" src="http://bytedream.org/api/media/meme?type=daily"></img>
 
