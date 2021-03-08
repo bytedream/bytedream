@@ -12,7 +12,7 @@
 
 #### Hello there, <ByteDream/> here. I'm a german student who loves open source development to automate and simplify things.
 
-## `>_About.me()`
+## `>_About.Me()`
 
 <img align="left" src="assets/programming.gif" alt="" width="143px">
 
