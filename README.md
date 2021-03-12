@@ -14,7 +14,7 @@
 
 ## `>_About.Me()`
 
-<img align="left" src="assets/programming.gif" alt="" width="143px">
+<img align="left" src="assets/anime_programming.gif" alt="" width="143px">
 
 - My featured programming languages are `python3`, `go` and sometimes `java` (it's a dying language).
   I also develop in HTML/CSS/Typescript, but mainly for my [website](http://bytedream.org)
