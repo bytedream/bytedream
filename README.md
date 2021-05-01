@@ -59,5 +59,7 @@ The following people helped me with their tutorials etc. to discover programming
 
 And now get ready for your daily meme :3
 
-<a href="http://bytedream.org/api/media/meme?type=daily"><img align="center" src="http://bytedream.org/api/media/meme?type=daily"></img></a>
+<div style="text-align: center">
+  <a href="https://bytedream.org/api/media/meme?type=daily"><img align="center" src="http://bytedream.org/api/media/meme?type=daily"></img></a>
+</div>
 
