@@ -27,7 +27,7 @@
 <p>
     <a href="https://github.com/ByteDream" style="width: 100%">
         <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical&langs_count=6&hide=qml,glsl,c,roff,cmake" alt="" height="160px"/>
     </a>
 </p>
 
