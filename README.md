@@ -18,7 +18,7 @@
 
 - My featured programming languages are `go`, `python3`, `HTML/CSS/Typescript` and `rust`
 - I mainly develop for linux although most of the stuff would probably run on windows as well but linux has simply many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that I only use it only inside of a VM for testing purposes.
-- See my private [Gitea instance](https://bytedream.org/gitea/explore/repos) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this)
+- See my private [Gitea instance](https://bytedream.org/gitea/ByteDream) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this)
 
 ## `>_About.Stats()`
 
