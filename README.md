@@ -16,18 +16,16 @@
 
 <img align="left" src="assets/anime_programming.gif" alt="" width="143px">
 
-- My featured programming languages are `python3`, `go` and sometimes `java` (it's a dying language).
-  I also develop in HTML/CSS/Typescript, but mainly for my [website](http://bytedream.org)
-- My favorite IDE's are all from [JetBrains](https://www.jetbrains.com/) like [PyCharm](https://www.jetbrains.com/pycharm/) or [GoLand](https://www.jetbrains.com/go/)
-- I mainly develop for linux (>99%), although most of the stuff would probably run on windows as well.
-  But linux has so many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that i only use it for gaming at the most (hopefully game support for linux will increase in the future).
+- My featured programming languages are `go`, `python3`, `HTML/CSS/Typescript` and `rust`
+- I mainly develop for linux although most of the stuff would probably run on windows as well but linux has simply many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that I only use it only inside of a VM for testing purposes.
+- See my private [Gitea instance](https://bytedream.org/gitea/explore/repos) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this)
 
 ## `>_About.Stats()`
 
 <p align="center">
     <a href="https://github.com/ByteDream" style="width: 100%">
         <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical&langs_count=6&hide=qml,glsl,c,roff,cmake" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
     </a>
 </p>
 
