@@ -2,7 +2,7 @@
 
 ## `>_About.TechStack()`
 
-<img align="left" src="assets/tsukishima_shijima_the_rust_programming_language.png" alt="" width="200px">
+<img align="right" src="assets/octocat.gif" alt="Octocat" width="120px">
 
 <p align="center">
     <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go(lang)"></a>
@@ -20,8 +20,6 @@
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
     <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
 </p>
-
-<img align="right" src="assets/octocat.gif" alt="Octocat" width="100">
 
 ## `>_About.Me()`
 
