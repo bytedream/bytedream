@@ -2,7 +2,7 @@
 
 ## `>_About.TechStack()`
 
-<img align="right" src="assets/octocat.gif" alt="Octocat" width="120px">
+<img align="right" src="assets/tsukishima_shijima_the_rust_programming_language.png" alt="Octocat" width="180px">
 
 <p align="center">
     <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go(lang)"></a>
