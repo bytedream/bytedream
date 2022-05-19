@@ -53,6 +53,6 @@
 And now get ready for your daily meme :3
 
 <p align="center">
-  <a href="https://bytedream.org/api/media/image/meme?type=daily"><img align="center" src="https://bytedream.org/api/media/image/meme?type=daily"></img></a>
+  <a href="https://bytedream.org/api/media/image/meme?type=daily"><img align="center" src="https://bytedream.org/api/media/image/meme?feature=daily"></img></a>
 </p>
 
