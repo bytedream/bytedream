@@ -12,6 +12,7 @@
     <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
     <a href="https://www.w3.org/TR/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript"></a>
+    <a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte"></a>
     <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" alt="Typescript"></a>
     <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"></a>
     <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
