@@ -40,6 +40,10 @@
     <a href="https://bytedream.org/"><img src="https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fbytedream.org" alt="Website"></a>
 </p>
 
+<p align="center">
+    <a href="https://ko-fi.com/bytedream"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
+</p>
+
 ## `>_About.Stats()`
 
 <p align="center">
