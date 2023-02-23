@@ -5,9 +5,9 @@
 <img align="right" src="assets/tsukishima_shijima_the_rust_programming_language.png" alt="Octocat" width="200px">
 
 <p align="center">
-    <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go(lang)"></a>
-    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
     <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"></a>
+    <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go"></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
     <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
     <a href="https://www.w3.org/TR/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
