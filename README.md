@@ -48,12 +48,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDream&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
     </a>
 </p>
-
----
-
-And now get ready for your daily meme :3
-
-<p align="center">
-  <a href="https://bytedream.org/api/media/image/meme?feature=daily"><img align="center" src="https://bytedream.org/api/media/image/meme?feature=daily"></img></a>
-</p>
-
