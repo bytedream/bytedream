@@ -28,16 +28,16 @@
 
 - I'm a german student who loves open source development, to automate and simplify things. Anime is also pretty neat stuff.
 - My main development target is Linux although most of the stuff would probably run on Windows as well but Linux has simply many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that I cannot understand why someone doesn't want to use it (at least in dual-boot).
-- See my private [Gitea instance](https://bytedream.org/gitea/ByteDream) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this).
+- See my private [Gitea instance](https://gitea.bytedream.dev/bytedream) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this).
 
 <p align="center">
     <a href="https://discord.gg/gUWwekeNNg"><img src="https://img.shields.io/discord/915659846836162561?label=Discord%20Server&style=flat-square" alt="Discord Server"></a>
-    <a href="https://discordapp.com/users/650417934073593886"><img src="https://img.shields.io/badge/Discord-ByteDream%234312-%23404eed?style=flat-square" alt="Discord Contact"></a>
+    <a href="https://discordapp.com/users/650417934073593886"><img src="https://img.shields.io/badge/Discord-bytedream-%23404eed?style=flat-square" alt="Discord Contact"></a>
     <a href="https://mastodon.social/@bytedream"><img src="https://img.shields.io/mastodon/follow/109518847941069996?color=%23595aff&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&style=flat-square" alt="Mastodon"></a>
     <a href="https://twitter.com/ByteDreamDev"><img src="https://img.shields.io/twitter/follow/ByteDreamDev?color=%231da1f2&label=Twitter&style=flat-square" alt="Twitter"></a>
     <a href="https://www.reddit.com/user/ByteDream"><img src="https://img.shields.io/badge/Reddit-u%2FByteDream-red?style=flat-square" alt="Reddit"></a>
     <a href="https://myanimelist.net/profile/ByteDream"><img src="https://img.shields.io/badge/Anime%20List-MAL-%232e51a2?style=flat-square" alt="MyAnimeList"></a>
-    <a href="https://bytedream.org/"><img src="https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fbytedream.org" alt="Website"></a>
+    <a href="https://bytedream.dev/"><img src="https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fbytedream.dev" alt="Website"></a>
 </p>
 
 <p align="center">
