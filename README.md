@@ -13,9 +13,10 @@
     <a href="https://www.w3.org/TR/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript"></a>
     <a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte"></a>
-    <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" alt="Typescript"></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"></a>
     <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"></a>
     <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
+    <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>
     <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux (the cute penguin :3)"></a>
     <a href="https://www.jetbrains.com/"><img src="https://skillicons.dev/icons?i=idea" alt="Jetbrains IDEs"></a>
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
