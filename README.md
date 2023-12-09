@@ -32,7 +32,6 @@
 - See my private [Gitea instance](https://gitea.bytedream.dev/bytedream) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this).
 
 <p align="center">
-    <a href="https://discord.gg/gUWwekeNNg"><img src="https://img.shields.io/discord/915659846836162561?label=Discord%20Server&style=flat-square" alt="Discord Server"></a>
     <a href="https://discordapp.com/users/650417934073593886"><img src="https://img.shields.io/badge/Discord-bytedream-%23404eed?style=flat-square" alt="Discord Contact"></a>
     <a href="https://mastodon.social/@bytedream"><img src="https://img.shields.io/mastodon/follow/109518847941069996?color=%23595aff&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&style=flat-square" alt="Mastodon"></a>
     <a href="https://twitter.com/ByteDreamDev"><img src="https://img.shields.io/twitter/follow/ByteDreamDev?color=%231da1f2&label=Twitter&style=flat-square" alt="Twitter"></a>
