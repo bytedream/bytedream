@@ -28,7 +28,7 @@
 <img align="left" src="assets/anime_programming.gif" alt="" width="143px">
 
 - I'm a german student who loves open source development, to automate and simplify things. Anime is also pretty neat stuff.
-- My main development target is Linux although most of the stuff would probably run on Windows as well but Linux has simply many [advantages](https://www.reddit.com/r/linuxmemes/comments/j97tjs/windows_needs_to_update_microhaft_edge_and/) over windows that I cannot understand why someone doesn't want to use it (at least in dual-boot).
+- My main development target is Linux although most of the stuff runs on Windows as well.
 - See my private [Gitea instance](https://gitea.bytedream.dev/bytedream) for more repos which are too irrelevant to host them on GitHub (and it's working as a backup server if GitHub goes down or something like this).
 
 <p align="center">
