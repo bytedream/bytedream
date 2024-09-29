@@ -34,9 +34,9 @@
 <p align="center">
     <a href="https://discordapp.com/users/650417934073593886"><img src="https://img.shields.io/badge/Discord-bytedream-%23404eed?style=flat-square" alt="Discord Contact"></a>
     <a href="https://mastodon.social/@bytedream"><img src="https://img.shields.io/mastodon/follow/109518847941069996?color=%23595aff&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&style=flat-square" alt="Mastodon"></a>
-    <a href="https://twitter.com/ByteDreamDev"><img src="https://img.shields.io/twitter/follow/ByteDreamDev?color=%231da1f2&label=Twitter&style=flat-square" alt="Twitter"></a>
+    <a href="https://twitter.com/bytedreamdev"><img src="https://img.shields.io/twitter/follow/ByteDreamDev?color=%231da1f2&label=Twitter&style=flat-square" alt="Twitter"></a>
     <a href="https://www.reddit.com/user/ByteDream"><img src="https://img.shields.io/badge/Reddit-u%2FByteDream-red?style=flat-square" alt="Reddit"></a>
-    <a href="https://myanimelist.net/profile/ByteDream"><img src="https://img.shields.io/badge/Anime%20List-MAL-%232e51a2?style=flat-square" alt="MyAnimeList"></a>
+    <a href="https://myanimelist.net/profile/bytedream"><img src="https://img.shields.io/badge/Anime%20List-MAL-%232e51a2?style=flat-square" alt="MyAnimeList"></a>
     <a href="https://bytedream.dev/"><img src="https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fbytedream.dev" alt="Website"></a>
 </p>
 
@@ -47,7 +47,7 @@
 ## `>_About.Stats()`
 
 <p align="center">
-    <a href="https://github.com/ByteDream" style="width: 100%">
+    <a href="https://github.com/bytedream" style="width: 100%">
         <img src="https://github-readme-stats.vercel.app/api?username=ByteDream&show_icons=true&theme=radical" alt="" height="160px"/>
     </a>
 </p>
